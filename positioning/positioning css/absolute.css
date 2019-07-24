@@ -1,0 +1,29 @@
+.box-parent{
+    background: #eaeaed
+
+}
+
+.box{
+    background: #046111;
+    height: 80px;
+    width: 80px;
+    position: absolute;
+}
+/* percentages define anchors 
+i.e position of each box relative to the enclosing box */
+.box-1{
+    top:6%;
+    left:2%;
+}
+.box-2{
+    top:0;
+    right:-50px;
+}
+
+.box-3{
+    bottom: -10px;
+    right: 20px;
+}
+.box-4{
+    bottom: 0;
+}

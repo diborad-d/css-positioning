@@ -1,0 +1,13 @@
+/*static- dafault position - 
+wont make a difference wheather you set it static or leave it */
+.box-parent{
+    background: #eaeaed
+
+}
+
+.box{
+    background: #046111;
+    height: 80px;
+    width: 80px;
+    position: static;
+}
